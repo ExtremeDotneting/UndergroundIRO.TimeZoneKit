@@ -25,7 +25,7 @@
   <PropertyGroup>
     <!-- Use current same version for all or define special for category-->
     <VersionPostfix></VersionPostfix>
-    <AsmVersion_TimeZoneKit>1.0.1$(VersionPostfix)</AsmVersion_TimeZoneKit>
+    <AsmVersion_TimeZoneKit>1.0.2$(VersionPostfix)</AsmVersion_TimeZoneKit>
   </PropertyGroup>
 
   <PropertyGroup>
